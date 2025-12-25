@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# API Keys - CRITICAL!
+.env
+*.key
+secrets.toml
+api_keys.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test data
+test_*.json
